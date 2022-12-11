@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me : HMU on anirbansaha2002@gmail.com
-                        Instagram handle : _anirbansaha_
+                        Instagram handle : __anirbansaha__
 
 <!---
 anirbansaha2002/anirbansaha2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
